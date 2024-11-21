@@ -233,7 +233,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
 
       const response = await fetch(
-        `hhttps://dr-pepper-car-wrap-x.vercel.app//send-email`,
+        `https://dr-pepper-car-wrap-x.vercel.app/send-email`,
         {
           method: "POST",
           body: formData,
