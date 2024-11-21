@@ -7,6 +7,8 @@ const PORT = process.env.PORT || 3000;
 
 const app = express();
 
+app.get("/", (req, res) => res.send("Express on Vercel"));
+
 // Middleware
 app.use(cors());
 app.use(express.static("public"));
