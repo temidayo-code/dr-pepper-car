@@ -1,6 +1,6 @@
 # Dr Pepper Vehicle Wrap Application
 
-Live Demo: [Dr Pepper Vehicle Wrap Application](link)
+Live Demo: [Dr Pepper Vehicle Wrap Application](https://dr-pepper-car-wrap.vercel.app)
 
 ## Description
 
@@ -22,7 +22,7 @@ This is a vehicle wrap application form for Dr Pepper branding.
 
 ## Live Website
 
-You can view the live website at: [Dr Pepper Vehicle Wrap Application](link)
+You can view the live website at: [Dr Pepper Vehicle Wrap Application](https://dr-pepper-car-wrap.vercel.app)
 
 ## Local Development
 
