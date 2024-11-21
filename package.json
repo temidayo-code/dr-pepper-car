@@ -1,0 +1,25 @@
+{
+  "name": "dr-pepper-car",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "flag-icons": "^7.2.3",
+    "intl-tel-input": "^24.7.0",
+    "jquery": "^3.7.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.16",
+    "select2": "^4.1.0-rc.0"
+  },
+  "description": ""
+}
